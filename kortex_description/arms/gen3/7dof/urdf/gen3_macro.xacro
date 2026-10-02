@@ -119,8 +119,8 @@
         <axis
           xyz="0 0 1" />
         <limit
-          lower="${-2*pi}"
-          upper="${2*pi}"
+          lower="-1000000"
+          upper="1000000"
           effort="39"
           velocity="1.3963" />
       </joint>
@@ -209,8 +209,8 @@
         <axis
           xyz="0 0 1" />
         <limit
-          lower="${-2*pi}"
-          upper="${2*pi}"
+          lower="-1000000"
+          upper="1000000"
           effort="39"
           velocity="1.3963" />
       </joint>
@@ -299,8 +299,8 @@
         <axis
           xyz="0 0 1" />
         <limit
-          lower="${-2*pi}"
-          upper="${2*pi}"
+          lower="-1000000"
+          upper="1000000"
           effort="9"
           velocity="1.2218" />
       </joint>
@@ -415,8 +415,8 @@
         <axis
           xyz="0 0 1" />
         <limit
-          lower="${-2*pi}"
-          upper="${2*pi}"
+          lower="-1000000"
+          upper="1000000"
           effort="9"
           velocity="1.2218" />
       </joint>
